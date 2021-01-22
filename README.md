@@ -20,6 +20,7 @@
 ## about the project
 
 This project is just for develope a simple e-commerce type webapplication using raw PHP code and design is using HTML5,CSS3,Boostrap4.
+I actually made it when I was in lockdown for corona virus pandemic
 
 ### Landing
 
